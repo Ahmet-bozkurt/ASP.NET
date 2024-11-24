@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\Yeni klas\u00F6r\\MongoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53F42DBC-B805-4A3E-B57D-98C0CDB5ADC4}|MongoApi.csproj|c:\\c#\\yeni klas\u00F6r\\mongoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53F42DBC-B805-4A3E-B57D-98C0CDB5ADC4}|MongoApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F42DBC-B805-4A3E-B57D-98C0CDB5ADC4}|MongoApi.csproj|c:\\c#\\yeni klas\u00F6r\\mongoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F42DBC-B805-4A3E-B57D-98C0CDB5ADC4}|MongoApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F42DBC-B805-4A3E-B57D-98C0CDB5ADC4}|MongoApi.csproj|c:\\c#\\yeni klas\u00F6r\\mongoapi\\controller\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F42DBC-B805-4A3E-B57D-98C0CDB5ADC4}|MongoApi.csproj|solutionrelative:controller\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5268046-43D1-4701-A4C4-22A0232A4DA4}|..\\MongoApiData\\MongoApiData.csproj|c:\\c#\\yeni klas\u00F6r\\mongoapidata\\repository\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5268046-43D1-4701-A4C4-22A0232A4DA4}|..\\MongoApiData\\MongoApiData.csproj|c:\\c#\\yeni klas\u00F6r\\mongoapidata\\repository\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F42DBC-B805-4A3E-B57D-98C0CDB5ADC4}|MongoApi.csproj|c:\\c#\\yeni klas\u00F6r\\mongoapi\\mongoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{53F42DBC-B805-4A3E-B57D-98C0CDB5ADC4}|MongoApi.csproj|solutionrelative:mongoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\C#\\Yeni klas\u00F6r\\MongoApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\C#\\Yeni klas\u00F6r\\MongoApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-02T06:42:10.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\C#\\Yeni klas\u00F6r\\MongoApi\\Controller\\PersonController.cs",
+              "RelativeDocumentMoniker": "Controller\\PersonController.cs",
+              "ToolTip": "C:\\C#\\Yeni klas\u00F6r\\MongoApi\\Controller\\PersonController.cs",
+              "RelativeToolTip": "Controller\\PersonController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwEcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T15:37:10.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "C:\\C#\\Yeni klas\u00F6r\\MongoApiData\\Repository\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "..\\MongoApiData\\Repository\\PersonRepository.cs",
+              "ToolTip": "C:\\C#\\Yeni klas\u00F6r\\MongoApiData\\Repository\\PersonRepository.cs",
+              "RelativeToolTip": "..\\MongoApiData\\Repository\\PersonRepository.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwDcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T15:17:42.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPersonRepository.cs",
+              "DocumentMoniker": "C:\\C#\\Yeni klas\u00F6r\\MongoApiData\\Repository\\IPersonRepository.cs",
+              "RelativeDocumentMoniker": "..\\MongoApiData\\Repository\\IPersonRepository.cs",
+              "ToolTip": "C:\\C#\\Yeni klas\u00F6r\\MongoApiData\\Repository\\IPersonRepository.cs",
+              "RelativeToolTip": "..\\MongoApiData\\Repository\\IPersonRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T15:17:42.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MongoApi.csproj",
+              "DocumentMoniker": "C:\\C#\\Yeni klas\u00F6r\\MongoApi\\MongoApi.csproj",
+              "RelativeDocumentMoniker": "MongoApi.csproj",
+              "ToolTip": "C:\\C#\\Yeni klas\u00F6r\\MongoApi\\MongoApi.csproj",
+              "RelativeToolTip": "MongoApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-01T15:17:02.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\Yeni klas\u00F6r\\MongoApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\C#\\Yeni klas\u00F6r\\MongoApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:59:03.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

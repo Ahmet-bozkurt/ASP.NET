@@ -1,0 +1,15 @@
+C:\C#\ReqResPattern\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\C#\ReqResPattern\Entities\bin\Debug\net8.0\Entities.dll
+C:\C#\ReqResPattern\Entities\bin\Debug\net8.0\Entities.pdb
+C:\C#\ReqResPattern\Entities\bin\Debug\net8.0\Core.dll
+C:\C#\ReqResPattern\Entities\bin\Debug\net8.0\Core.pdb
+C:\C#\ReqResPattern\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+C:\C#\ReqResPattern\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\ReqResPattern\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\C#\ReqResPattern\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\C#\ReqResPattern\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\C#\ReqResPattern\Entities\obj\Debug\net8.0\Entities.csproj.Up2Date
+C:\C#\ReqResPattern\Entities\obj\Debug\net8.0\Entities.dll
+C:\C#\ReqResPattern\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\C#\ReqResPattern\Entities\obj\Debug\net8.0\Entities.pdb
+C:\C#\ReqResPattern\Entities\obj\Debug\net8.0\ref\Entities.dll

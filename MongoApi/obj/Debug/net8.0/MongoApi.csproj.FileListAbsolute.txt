@@ -1,0 +1,7 @@
+C:\C#\MongoApi\obj\Debug\net8.0\MongoApi.csproj.AssemblyReference.cache
+C:\C#\MongoApi\obj\Debug\net8.0\MongoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\MongoApi\obj\Debug\net8.0\MongoApi.AssemblyInfoInputs.cache
+C:\C#\MongoApi\obj\Debug\net8.0\MongoApi.AssemblyInfo.cs
+C:\C#\MongoApi\obj\Debug\net8.0\MongoApi.csproj.CoreCompileInputs.cache
+C:\C#\MongoApi\obj\Debug\net8.0\MongoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\C#\MongoApi\obj\Debug\net8.0\MongoApi.MvcApplicationPartsAssemblyInfo.cache

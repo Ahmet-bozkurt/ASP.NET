@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\MongoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53F42DBC-B805-4A3E-B57D-98C0CDB5ADC4}|MongoApi.csproj|c:\\c#\\mongoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F42DBC-B805-4A3E-B57D-98C0CDB5ADC4}|MongoApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\C#\\MongoApi\\obj\\Debug\\net8.0\\MongoApi.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\MongoApi.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\C#\\MongoApi\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A415EE5A-13AF-447D-88D4-A5932E48391E}|MongoDemoData\\MongoDemoData.csproj|c:\\c#\\mongoapi\\mongodemodata\\repository\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A415EE5A-13AF-447D-88D4-A5932E48391E}|MongoDemoData\\MongoDemoData.csproj|solutionrelative:mongodemodata\\repository\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A415EE5A-13AF-447D-88D4-A5932E48391E}|MongoDemoData\\MongoDemoData.csproj|c:\\c#\\mongoapi\\mongodemodata\\repository\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A415EE5A-13AF-447D-88D4-A5932E48391E}|MongoDemoData\\MongoDemoData.csproj|solutionrelative:mongodemodata\\repository\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A415EE5A-13AF-447D-88D4-A5932E48391E}|MongoDemoData\\MongoDemoData.csproj|c:\\c#\\mongoapi\\mongodemodata\\data\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A415EE5A-13AF-447D-88D4-A5932E48391E}|MongoDemoData\\MongoDemoData.csproj|solutionrelative:mongodemodata\\data\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MongoApi.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\C#\\MongoApi\\obj\\Debug\\net8.0\\MongoApi.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\MongoApi.AssemblyInfo.cs",
+              "ToolTip": "C:\\C#\\MongoApi\\obj\\Debug\\net8.0\\MongoApi.AssemblyInfo.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\MongoApi.AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:44:40.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\C#\\MongoApi\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ToolTip": "C:\\C#\\MongoApi\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:41:01.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\MongoApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\C#\\MongoApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:30:21.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "C:\\C#\\MongoApi\\MongoDemoData\\Repository\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "MongoDemoData\\Repository\\PersonRepository.cs",
+              "ToolTip": "C:\\C#\\MongoApi\\MongoDemoData\\Repository\\PersonRepository.cs",
+              "RelativeToolTip": "MongoDemoData\\Repository\\PersonRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:28:31.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPersonRepository.cs",
+              "DocumentMoniker": "C:\\C#\\MongoApi\\MongoDemoData\\Repository\\IPersonRepository.cs",
+              "RelativeDocumentMoniker": "MongoDemoData\\Repository\\IPersonRepository.cs",
+              "ToolTip": "C:\\C#\\MongoApi\\MongoDemoData\\Repository\\IPersonRepository.cs",
+              "RelativeToolTip": "MongoDemoData\\Repository\\IPersonRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:25:20.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\C#\\MongoApi\\MongoDemoData\\Data\\DataAccess.cs",
+              "RelativeDocumentMoniker": "MongoDemoData\\Data\\DataAccess.cs",
+              "ToolTip": "C:\\C#\\MongoApi\\MongoDemoData\\Data\\DataAccess.cs",
+              "RelativeToolTip": "MongoDemoData\\Data\\DataAccess.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T11:57:19.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

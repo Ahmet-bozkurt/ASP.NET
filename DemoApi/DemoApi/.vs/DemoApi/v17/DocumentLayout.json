@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\DemoApi\\DemoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B901246-A1B0-4C7F-9D63-53032446D713}|DemoApi.csproj|c:\\c#\\demoapi\\demoapi\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B901246-A1B0-4C7F-9D63-53032446D713}|DemoApi.csproj|solutionrelative:controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FCBB03-E1AA-4C22-B136-F6EE1BFEAC4B}|..\\DemoApiData\\DemoApiData.csproj|c:\\c#\\demoapi\\demoapidata\\data\\idataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FCBB03-E1AA-4C22-B136-F6EE1BFEAC4B}|..\\DemoApiData\\DemoApiData.csproj|c:\\c#\\demoapi\\demoapidata\\data\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FCBB03-E1AA-4C22-B136-F6EE1BFEAC4B}|..\\DemoApiData\\DemoApiData.csproj|c:\\c#\\demoapi\\demoapidata\\repository\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FCBB03-E1AA-4C22-B136-F6EE1BFEAC4B}|..\\DemoApiData\\DemoApiData.csproj|c:\\c#\\demoapi\\demoapidata\\repository\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B901246-A1B0-4C7F-9D63-53032446D713}|DemoApi.csproj|c:\\c#\\demoapi\\demoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B901246-A1B0-4C7F-9D63-53032446D713}|DemoApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FCBB03-E1AA-4C22-B136-F6EE1BFEAC4B}|..\\DemoApiData\\DemoApiData.csproj|c:\\c#\\demoapi\\demoapidata\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDataAccess.cs",
+              "DocumentMoniker": "C:\\C#\\DemoApi\\DemoApiData\\Data\\IDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\DemoApiData\\Data\\IDataAccess.cs",
+              "ToolTip": "C:\\C#\\DemoApi\\DemoApiData\\Data\\IDataAccess.cs",
+              "RelativeToolTip": "..\\DemoApiData\\Data\\IDataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:25:44.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\C#\\DemoApi\\DemoApi\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PersonController.cs",
+              "ToolTip": "C:\\C#\\DemoApi\\DemoApi\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "Controllers\\PersonController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:41:20.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\DemoApi\\DemoApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\C#\\DemoApi\\DemoApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:39:36.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "C:\\C#\\DemoApi\\DemoApiData\\Repository\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "..\\DemoApiData\\Repository\\PersonRepository.cs",
+              "ToolTip": "C:\\C#\\DemoApi\\DemoApiData\\Repository\\PersonRepository.cs",
+              "RelativeToolTip": "..\\DemoApiData\\Repository\\PersonRepository.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAqwDcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:38:10.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPersonRepository.cs",
+              "DocumentMoniker": "C:\\C#\\DemoApi\\DemoApiData\\Repository\\IPersonRepository.cs",
+              "RelativeDocumentMoniker": "..\\DemoApiData\\Repository\\IPersonRepository.cs",
+              "ToolTip": "C:\\C#\\DemoApi\\DemoApiData\\Repository\\IPersonRepository.cs",
+              "RelativeToolTip": "..\\DemoApiData\\Repository\\IPersonRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:38:07.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\C#\\DemoApi\\DemoApiData\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "..\\DemoApiData\\Models\\Person.cs",
+              "ToolTip": "C:\\C#\\DemoApi\\DemoApiData\\Models\\Person.cs",
+              "RelativeToolTip": "..\\DemoApiData\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:38:05.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\C#\\DemoApi\\DemoApiData\\Data\\DataAccess.cs",
+              "RelativeDocumentMoniker": "..\\DemoApiData\\Data\\DataAccess.cs",
+              "ToolTip": "C:\\C#\\DemoApi\\DemoApiData\\Data\\DataAccess.cs",
+              "RelativeToolTip": "..\\DemoApiData\\Data\\DataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:37:59.713Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

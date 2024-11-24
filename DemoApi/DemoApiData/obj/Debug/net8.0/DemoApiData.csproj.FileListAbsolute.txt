@@ -1,0 +1,12 @@
+C:\C#\DemoApi\DemoApiData\bin\Debug\net8.0\DemoApiData.deps.json
+C:\C#\DemoApi\DemoApiData\bin\Debug\net8.0\DemoApiData.dll
+C:\C#\DemoApi\DemoApiData\bin\Debug\net8.0\DemoApiData.pdb
+C:\C#\DemoApi\DemoApiData\obj\Debug\net8.0\DemoApiData.csproj.AssemblyReference.cache
+C:\C#\DemoApi\DemoApiData\obj\Debug\net8.0\DemoApiData.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\DemoApi\DemoApiData\obj\Debug\net8.0\DemoApiData.AssemblyInfoInputs.cache
+C:\C#\DemoApi\DemoApiData\obj\Debug\net8.0\DemoApiData.AssemblyInfo.cs
+C:\C#\DemoApi\DemoApiData\obj\Debug\net8.0\DemoApiData.csproj.CoreCompileInputs.cache
+C:\C#\DemoApi\DemoApiData\obj\Debug\net8.0\DemoApiData.dll
+C:\C#\DemoApi\DemoApiData\obj\Debug\net8.0\refint\DemoApiData.dll
+C:\C#\DemoApi\DemoApiData\obj\Debug\net8.0\DemoApiData.pdb
+C:\C#\DemoApi\DemoApiData\obj\Debug\net8.0\ref\DemoApiData.dll

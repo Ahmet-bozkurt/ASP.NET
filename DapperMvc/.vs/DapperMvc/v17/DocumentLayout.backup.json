@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\DapperMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{064CB3CA-436D-4C24-99CF-BAE9242F98EC}|EntityLayer\\EntityLayer.csproj|c:\\c#\\dappermvc\\entitylayer\\repository\\abstractdapperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064CB3CA-436D-4C24-99CF-BAE9242F98EC}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\repository\\abstractdapperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064CB3CA-436D-4C24-99CF-BAE9242F98EC}|EntityLayer\\EntityLayer.csproj|c:\\c#\\dappermvc\\entitylayer\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064CB3CA-436D-4C24-99CF-BAE9242F98EC}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AbstractDapperRepository.cs",
+              "DocumentMoniker": "C:\\C#\\DapperMvc\\EntityLayer\\Repository\\AbstractDapperRepository.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Repository\\AbstractDapperRepository.cs",
+              "ToolTip": "C:\\C#\\DapperMvc\\EntityLayer\\Repository\\AbstractDapperRepository.cs",
+              "RelativeToolTip": "EntityLayer\\Repository\\AbstractDapperRepository.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAiwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:08:27.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\C#\\DapperMvc\\EntityLayer\\Employee.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Employee.cs",
+              "ToolTip": "C:\\C#\\DapperMvc\\EntityLayer\\Employee.cs",
+              "RelativeToolTip": "EntityLayer\\Employee.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:42:41.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\C#\Yeni klasör\MongoApiData\bin\Debug\net8.0\MongoApiData.deps.json
+C:\C#\Yeni klasör\MongoApiData\bin\Debug\net8.0\MongoApiData.dll
+C:\C#\Yeni klasör\MongoApiData\bin\Debug\net8.0\MongoApiData.pdb
+C:\C#\Yeni klasör\MongoApiData\obj\Debug\net8.0\MongoApiData.csproj.AssemblyReference.cache
+C:\C#\Yeni klasör\MongoApiData\obj\Debug\net8.0\MongoApiData.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Yeni klasör\MongoApiData\obj\Debug\net8.0\MongoApiData.AssemblyInfoInputs.cache
+C:\C#\Yeni klasör\MongoApiData\obj\Debug\net8.0\MongoApiData.AssemblyInfo.cs
+C:\C#\Yeni klasör\MongoApiData\obj\Debug\net8.0\MongoApiData.csproj.CoreCompileInputs.cache
+C:\C#\Yeni klasör\MongoApiData\obj\Debug\net8.0\MongoApiData.dll
+C:\C#\Yeni klasör\MongoApiData\obj\Debug\net8.0\refint\MongoApiData.dll
+C:\C#\Yeni klasör\MongoApiData\obj\Debug\net8.0\MongoApiData.pdb
+C:\C#\Yeni klasör\MongoApiData\obj\Debug\net8.0\ref\MongoApiData.dll
